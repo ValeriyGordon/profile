@@ -1,0 +1,21 @@
+:root {
+    --color-white-text: #ffffff;
+    --color-gray-text: #efefef;
+    --color-gray-text-medium: #7c8587;
+    --color-gray-text-dark: #484848;
+
+    --color-element-gray: #7c8587;
+
+    --color-bg-gray: #efefef;
+    --color-bg-white: #ffffff;
+}
+
+body {
+    min-width: 1160px;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
